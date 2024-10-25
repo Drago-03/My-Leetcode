@@ -30,7 +30,7 @@ Constraints:
     -106 <= nums1[i], nums2[i] <= 106"""
 
 class Solution:
-    def findMedianSortedArrays(self, nums1: List[int], nums2: List[int]) -> float:
+    def findMedianSortedArrays(self, nums1: List[int], nums2: List[int]) -> float: # type: ignore
         if len(nums1) > len(nums2):
             nums1, nums2 = nums2, nums1
         
