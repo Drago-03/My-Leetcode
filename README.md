@@ -133,7 +133,7 @@ Please:
 
 - GitHub: [Drago-03](https://github.com/Drago-03)
 - LeetCode: [drago_03](https://leetcode.com/u/drago_03/)
-- Email: [Email](mantejarora@gmail.com)
+- Email: [mantejarora@gmail.com]
 
 ## ⭐️ Show Your Support
 
