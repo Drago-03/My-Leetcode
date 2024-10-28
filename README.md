@@ -108,7 +108,7 @@ Each solution includes:
 - Performance comparison of different approaches
 - Optimization explanations
 
-# LeetCode Problems Organization (1-150)
+## LeetCode Problems Organization (1-150) 🗄️
 
 ## Arrays & Strings (`arrays_strings/`)
 ```
